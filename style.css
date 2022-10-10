@@ -1,0 +1,14 @@
+body {
+     margin: 0 auto; /* видалення відступу */
+    background-color: rgb(217, 152, 67);
+}
+.header {
+    width: 100%; /* ширина блоку */
+    height: 100px; /* висота блоку */
+    background-color: black;
+}
+.main {
+    width: 100%; /* ширина блоку */
+    height: 1000px; /* висота блоку */
+    background-color: rgb(204, 41, 41);
+}
